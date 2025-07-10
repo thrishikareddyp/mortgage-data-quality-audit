@@ -1,7 +1,7 @@
 
 # Mortgage Data Quality Audit
 
-This project performs a data quality audit on mortgage loan application data using Python and Pandas. It identifies common issues such as missing values, outliers, and logically inconsistent entries—core steps in preparing financial data for analysis and reporting.
+This project performs a data quality audit on mortgage loan application data using Python and Pandas. It identifies common issues such as missing values, outliers, and logically inconsistent entries core steps in preparing financial data for analysis and reporting.
 
 ## 🔍 What This Project Does
 
